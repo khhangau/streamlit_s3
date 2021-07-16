@@ -1,0 +1,1 @@
+mongo --username kim --password

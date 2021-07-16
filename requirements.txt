@@ -1,2 +1,3 @@
 # requirements.txt
 s3fs
+pymongo
