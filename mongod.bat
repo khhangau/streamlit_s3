@@ -1,1 +1,1 @@
-"D:\Program Files\MongoDB\Server\4.4\bin\mongod.exe" --dbpath "D:\Users\khhan\Documents\Python Scripts\streamlit\database\mongo db data" --auth
+"D:\Program Files\MongoDB\Server\4.4\bin\mongod.exe" --dbpath "D:\Users\khhan\Documents\Python Scripts\streamlit\mongo db data" --auth
